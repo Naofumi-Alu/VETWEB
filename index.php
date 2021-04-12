@@ -54,6 +54,5 @@ include("db.php");
         </p>
     </section>
 
-
     <?php include('include/footer.php'); ?>
 
