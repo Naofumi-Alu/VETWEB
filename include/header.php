@@ -13,11 +13,11 @@
     
     <!--FREDOKA -->
 
-     <link href="css/estilo1.css" rel="stylesheet"> 
-	 <link href="../css/estilo1.css" rel="stylesheet"> 
+     <link href="Styles/css/estilo1.css" rel="stylesheet"> 
+	 <link href="../../Styles/css/estilo1.css" rel="stylesheet"> 
      <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
      <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Varela+Round&display=swap" rel="stylesheet">   
-    <link rel="preconnect" href="https://fonts.gstatic.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com">
 
 </head>
 

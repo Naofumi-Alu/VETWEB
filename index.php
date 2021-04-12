@@ -38,7 +38,7 @@ include("db.php");
             <div class="clearfloat"></div>
             
             <p id="ingresoLink">
-                <a href="curso/home.php">
+                <a href="Acount/home.php">
                     Ingresar
                 </a>
             </p>
@@ -48,7 +48,7 @@ include("db.php");
         </form>
 
         <p id="registerLink">
-            <a href="html/userRegister.php">
+            <a href="Vistas/html/userRegister.php">
                 Registrarse
             </a>
         </p>

@@ -1381,7 +1381,7 @@ a.bg-primary:focus {
   background-color: #286090;
 }
 .bg-success {
-  background-color: #dff0d8;
+  background-color: rgb(67, 216, 204);;
 }
 a.bg-success:hover,
 a.bg-success:focus {
