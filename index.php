@@ -10,18 +10,7 @@ include("db.php");
 <?php include('include/header.php') ?>
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Varela+Round&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/estilo1.css">
-    <title>Tu Mascota</title>
-</head>
+
 <body>
 
     <div class="general">
@@ -49,7 +38,7 @@ include("db.php");
             <div class="clearfloat"></div>
             
             <p id="ingresoLink">
-                <a href="curso/index.php">
+                <a href="curso/home.php">
                     Ingresar
                 </a>
             </p>
@@ -65,13 +54,6 @@ include("db.php");
         </p>
     </section>
 
-    <footer>
-
-    </footer>
-
-    </div>
 
     <?php include('include/footer.php'); ?>
 
-</body>
-</html>

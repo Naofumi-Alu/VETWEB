@@ -21,7 +21,7 @@
 		</div>
 		
 |		<div class="row">
-			<div class="col-xs-12 col-sm-6 col-md-6"><a href="../calendar/index.php" class="btn btn-primary" >Agendar Consulta</a></div>
+			<div class="col-xs-12 col-sm-6 col-md-6"><a href="../calendar/agendar.php" class="btn btn-primary" >Agendar Consulta</a></div>
 		</div>
 
 		<div class="row">
