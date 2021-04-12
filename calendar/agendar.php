@@ -2,6 +2,19 @@
 
 <body>
 
+	<!--Navegacion -->
+
+
+	<nav  class="navbar navbar-dark bg-dark">
+
+		<div class="container">
+
+			<a  href="../Acount/home.php" class="btn btn-info float-left">Home</a>
+
+		</div>
+
+	</nav>
+	
 	<!-- Page Content -->
 	<div class="container">
 

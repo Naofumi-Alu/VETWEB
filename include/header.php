@@ -13,20 +13,26 @@
     <!--se incluye el FrameWork BOOTSTRAP4 por CDN-->
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <!--<link href="css/bootstrap.min.css" rel="stylesheet">-->
+    <link href="css/bootstrap-theme.css" rel="stylesheet">
+   
+
 
     <!--FREDOKA -->
 
     <link href="Styles/css/estilo1.css" rel="stylesheet">
     <link href="../../Styles/css/estilo1.css" rel="stylesheet">
+
     <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Varela+Round&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="../Styles/css/estilo2.css" rel="stylesheet">
+
+
     <!-- Custom CSS -->
     <style>
-
-        
         body {
-            padding-top: 3%;
+            padding-top: 0%;
             background-color: rgb(67, 216, 204);
             margin: auto;
         }
@@ -93,7 +99,7 @@
             margin: auto;
             margin-top: 25px;
             padding: 0px;
-            
+
         }
 
         #title3 {
@@ -107,10 +113,10 @@
         }
 
         #generalImagen {
-            
+
             width: 60%;
             height: 90%;
-            float:left;
+            float: left;
             margin-left: 4%;
             margin-top: 4%;
             margin-bottom: 40px;

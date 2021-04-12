@@ -22,22 +22,32 @@ $events = $req->fetchAll();
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" type="imagen/png" href="../Vistas/imagenesTuMascota/favicon.ico" sizes="32x32"/>
+    <link rel="icon" type="imagen/png" href="../Vistas/imagenesTuMascota/favicon.ico" sizes="32x32" />
 
     <title>Inicio</title>
 
-    <!-- Bootstrap Core CSS -->
+    <!-- Bootstrap CDN CSS -->
 
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+
 
     <!-- FullCalendar -->
 
     <link href='css/fullcalendar.css' rel='stylesheet' />
 
+    <!--FREDOKA -->
+
+    
+
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Varela+Round&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+
+
     <!-- Custom CSS -->
     <style>
         body {
-            padding-top: 3%;
+            padding-top: 0%;
             background-color: rgb(67, 216, 204);
             margin: auto;
         }
@@ -126,6 +136,8 @@ $events = $req->fetchAll();
             font-size: 2em;
             font-family: 'Fredoka One', cursive;
         }
+       
+        
     </style>
 
 

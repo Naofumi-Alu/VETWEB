@@ -1,16 +1,7 @@
-<html lang="es">
-	<head>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link href="css/bootstrap.min.css" rel="stylesheet">
-		<link href="css/bootstrap-theme.css" rel="stylesheet">
-		<link href="../css/estilo2" rel="stylesheet">
-		<script src="js/jquery-3.1.1.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>	
-	</head>
-	
+<?php include('../include/header.php') ?>
 	<body>
 
-	<div class="general">
+	<div id="general3">
 		<div class="container">
 			<div class="row">
 				<h3 style="text-align:center">NUEVO USUARIO</h3>
@@ -94,5 +85,4 @@
 			</form>
 		</div>
 	</div>	
-	</body>
-</html>
+	<?php include('../include/footer.php') ?>

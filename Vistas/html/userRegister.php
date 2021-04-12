@@ -3,6 +3,20 @@
 <?php include('../../include/header.php') ?>
 
 <body>
+
+    <!--Navegacion -->
+
+
+    <nav class="navbar navbar-dark bg-dark">
+
+        <div class="container">
+
+            <a href="../../index.php" class="btn btn-info float-right">Log In</a>
+
+        </div>
+
+    </nav>
+
     <div class="general">
         <!-- Encabezado -->
 
@@ -95,4 +109,4 @@
         </section>
 
 
-<?php include('../../include/footer.php'); ?>
+        <?php include('../../include/footer.php'); ?>

@@ -12,6 +12,19 @@ include("db.php");
 
 
 <body>
+    
+<!--Navegacion -->
+
+
+<nav class="navbar navbar-dark bg-dark">
+
+<div class="container">
+
+    <a href="index.php" class="btn btn-info float-right">Log In</a>
+
+</div>
+
+</nav>
 
     <div class="general">
     <!-- Encabezado -->
@@ -49,7 +62,7 @@ include("db.php");
 
         <p id="registerLink">
             <a href="Vistas/html/userRegister.php">
-                Registrarse
+                Sign Up
             </a>
         </p>
     </section>

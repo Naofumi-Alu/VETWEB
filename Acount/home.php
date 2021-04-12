@@ -2,6 +2,19 @@
 
 <body>
 
+	<!--Navegacion -->
+
+
+	<nav class="navbar navbar-dark bg-dark">
+
+		<div class="container">
+
+			<a href="../index.php" class="btn btn-info float-left">Log off</a>
+
+		</div>
+
+	</nav>
+
 	<div class="row">
 		<div class="col-centered col-lg-12 text-center">
 			<div class="container">
