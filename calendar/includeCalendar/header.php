@@ -22,6 +22,7 @@ $events = $req->fetchAll();
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
+    <link rel="icon" type="imagen/png" href="../Vistas/imagenesTuMascota/favicon.ico" sizes="32x32"/>
 
     <title>Inicio</title>
 
