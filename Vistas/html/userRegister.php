@@ -1,6 +1,7 @@
 <!--Se llama la conexion ala base de datos-->
 
 <?php include('../../include/header.php') ?>
+<?php include('../../db.php') ?>
 
 <body>
 

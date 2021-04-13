@@ -5,8 +5,12 @@
 <head lang="es">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!--no estna repetidos, cada uno tiene una ruta diferente para el favicon, donde archivos diferentes acceden a ellos -->
+
     <link rel="icon" type="imagen/png" href="Vistas/imagenesTuMascota/favicon.ico" sizes="32x32" />
     <link rel="icon" type="imagen/png" href="../Vistas/imagenesTuMascota/favicon.ico" sizes="32x32" />
+    <link rel="icon" type="imagen/png" href="../../Vistas/imagenesTuMascota/favicon.ico" sizes="32x32" />
 
     <title>Tu Mascota</title>
 
@@ -120,7 +124,6 @@
             margin-left: 4%;
             margin-top: 4%;
             margin-bottom: 40px;
-            padding: 0px;
             border-radius: 5px;
             box-shadow: 0px 2px 5px 0px rgb(0, 0, 0);
             background-color: #dfe6e9;

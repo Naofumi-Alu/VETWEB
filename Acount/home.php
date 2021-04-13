@@ -21,11 +21,11 @@
 
 				<h2 id="general3" style="text-align:center">Menú de Opciones</h3>
 
-					<div id="card2" class="orden">
+					<div id="card2" class="">
 						<div class="row ">
 							<div id="generalImagen" class=" col-xs-12 col-sm-6 col-md-6">
 								<figure>
-									<img class="orden" src="../Vistas/imagenesTuMascota/cat-profile.png" alt="imagen de perfil.png" />
+									<img class="" src="../Vistas/imagenesTuMascota/cat-profile.png" alt="imagen de perfil.png" />
 								</figure>
 							</div>
 						</div>
